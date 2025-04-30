@@ -1,11 +1,11 @@
 <a id="readme-top"></a>
 <h3 align="center">pg</h3>
-<p align="center">
+<b align="center">
 <div>
 <b>
    private
 </b>
-   </p>
+   </b>
   <p align="center">
     <a href="[https://github.com/github_username/repo_name](https://github.com/lilpatter/osi/tree/main)/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
