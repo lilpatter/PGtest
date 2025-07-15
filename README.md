@@ -12,7 +12,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Need HWID and IP for authentication and setup.
+Need HWID for authentication.
 
 ### Prerequisites
 - Windows 10/11 (64-bit)
